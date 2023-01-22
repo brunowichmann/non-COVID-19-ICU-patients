@@ -4,8 +4,11 @@ This GitHub webpage makes available the data and the codes (Stata format) to rep
 The Stata code requires four packages:
 
 -ASDOC (https://ideas.repec.org/c/boc/bocode/s458466.html)
+
 -ESTOUT (https://ideas.repec.org/c/boc/bocode/s439301.html)
+
 -REGHDFE (https://ideas.repec.org/c/boc/bocode/s457874.html)
+
 -PARTPRED (https://ideas.repec.org/c/boc/bocode/s457176.html).
 
 These packages can be installed using the "ssc install" command (refer to Stata help for details).
