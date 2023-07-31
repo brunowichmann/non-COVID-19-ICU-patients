@@ -11,4 +11,4 @@ The Stata code requires four packages:
 
 -PARTPRED (https://ideas.repec.org/c/boc/bocode/s457176.html).
 
-These packages can be installed using the "ssc install" command (refer to Stata help for details). The code will generate several files, including `Model_results.dta' (used to make Figure 1) and `N_Patients.dta' (used to make Figure 2).
+These packages can be installed using the "ssc install" command (refer to Stata help for details). The code will generate several files, including 'Model_results.dta' (used to make Figure 1) and 'N_Patients.dta' (used to make Figure 2).
